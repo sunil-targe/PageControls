@@ -29,7 +29,7 @@ import UIKit
     
     // MARK: - Appearance
     
-    @IBInspectable open var pillSize: CGSize = CGSize(width: 20, height: 2.5) {
+    @IBInspectable open var pillSize: CGSize = CGSize(width: 22, height: 5) {
         didSet {
             
         }
